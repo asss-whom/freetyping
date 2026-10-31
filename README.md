@@ -30,7 +30,6 @@ Or use uv:
 
 ```bash
 uv add ./freetyping-1.0.0-py3-none-any.whl
-uv sync
 ```
 
 ### Building from Source
